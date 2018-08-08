@@ -1,0 +1,8 @@
+
+obj/project.assets.json
+*.cache
+*.cache
+obj/Debug/netcoreapp2.0/Delegate.csproj.CoreCompileInputs.cache
+*.props
+*.targets
+obj/Debug/netcoreapp2.0/Delegate.csproj.CoreCompileInputs.cache
