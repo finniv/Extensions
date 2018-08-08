@@ -1,0 +1,10 @@
+D:\Education\C#\Delegate\obj\Debug\netcoreapp2.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Education\C#\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfoInputs.cache
+D:\Education\C#\Delegate\obj\Debug\netcoreapp2.0\Delegate.AssemblyInfo.cs
+D:\Education\C#\Delegate\bin\Debug\netcoreapp2.0\Delegate.deps.json
+D:\Education\C#\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.json
+D:\Education\C#\Delegate\bin\Debug\netcoreapp2.0\Delegate.runtimeconfig.dev.json
+D:\Education\C#\Delegate\bin\Debug\netcoreapp2.0\Delegate.dll
+D:\Education\C#\Delegate\bin\Debug\netcoreapp2.0\Delegate.pdb
+D:\Education\C#\Delegate\obj\Debug\netcoreapp2.0\Delegate.dll
+D:\Education\C#\Delegate\obj\Debug\netcoreapp2.0\Delegate.pdb
