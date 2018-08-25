@@ -11,7 +11,7 @@ namespace Delegate
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(GetNumber());
-            new FirstViewModel();
+            new NavigationService().NavigateTo<FirstViewModel>();
         }
 
         private static int GetNumber()
