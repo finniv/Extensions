@@ -1,9 +1,13 @@
+using System;
 using Delegate.Interfaces;
 
 namespace Delegate.Models.LocalModels
 {
     public class LocalModel : Model 
     {
-        public IViewModel ViewModel{get;set;}
+        public Func<LocalModel,bool> Function{get;set;}
+
+        public string ID{get;set;}
+        public IMapper ViewModel{get;set;}
     }
 }
