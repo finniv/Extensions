@@ -9,6 +9,7 @@ public class SecondViewModel : BaseViewModel<LocalModel>
     private LocalModel LocalModel;
     public override void InitializeViewModel()
     {
+        base.InitializeViewModel();
         LocalModel.Function.Invoke(LocalModel);
     }
 
