@@ -20,12 +20,14 @@ public abstract class BaseViewModel<TParameter> : IViewModel
     public BaseViewModel()
     {
         navigationService = new NavigationService();
-        InitializeViewModel();
     }
     public virtual void InitializeViewModel()
     {
 
     }
 
-    public abstract void Prepare(TParameter parameter);
+    public virtual void Prepare(TParameter parameter)
+    {
+        InitializeViewModel();
+    }
 }

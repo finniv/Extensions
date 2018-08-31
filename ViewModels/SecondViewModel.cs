@@ -16,6 +16,5 @@ public class SecondViewModel : BaseViewModel<LocalModel>
     public override void Prepare(LocalModel parameter)
     {
         LocalModel = parameter;
-        InitializeViewModel();
     }
 }

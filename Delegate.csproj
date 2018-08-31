@@ -5,4 +5,13 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove=".gitignore" />
+    <None Remove="CODE_OF_CONDUCT.md" />
+    <None Remove="CONTRIBUTING.md" />
+    <None Remove="LICENSE" />
+    <None Remove="PULL_REQUEST_TEMPLATE.md" />
+    <None Remove="README.md" />
+  </ItemGroup>
+
 </Project>
